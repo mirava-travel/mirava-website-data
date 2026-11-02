@@ -23,13 +23,14 @@ const ICON = {
   arch:'<path d="M3 14 V5 L4.5 3 L6 5 V7 H10 V5 L11.5 3 L13 5 V14 H10 V11 A2 2 0 0 0 6 11 V14 Z" fill="#fff"/>',
   cafe:'<path d="M2 5 H12 V9 A4 4 0 0 1 8 13 H6 A4 4 0 0 1 2 9 Z" fill="#fff"/><path d="M12 6 H13.5 A1.8 1.8 0 0 1 13.5 9.6 H12" fill="none" stroke="#fff" stroke-width="1.4"/>',
   route:'<path d="M2 12 C5 2 9 14 14 4" fill="none" stroke="#fff" stroke-width="2"/>',
+  flat:'<path d="M1.5 8 H14.5" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>',
   pro:'<path d="M3 2 V14 M3 2 H13 L11 5 L13 8 H3" fill="none" stroke="#fff" stroke-width="1.6"/>'
 };
 const KIND = {
   "Famous climbs":"climb","Local climbs":"climb","Great views":"view","Beautiful nature":"nature",
   "Villages, wine and culture":"village","Architecture":"arch","Cycling caf\u00e9s and restaurants":"cafe"
 };
-const COLOR = {climb:'var(--c-climb)',view:'var(--c-view)',nature:'var(--c-nature)',village:'var(--c-village)',arch:'var(--c-arch)',cafe:'var(--c-cafe)',route:'var(--green)',pro:'var(--ink)'};
+const COLOR = {climb:'var(--c-climb)',view:'var(--c-view)',nature:'var(--c-nature)',village:'var(--c-village)',arch:'var(--c-arch)',cafe:'var(--c-cafe)',route:'var(--green)',flat:'var(--green)',pro:'var(--ink)'};
 const HEX = {climb:'#B8532F',view:'#2F6E9E',nature:'#3F8F5C',village:'#7E4F93',arch:'#8A6A35',cafe:'#003B2A'};
 
 const R = D.routes;
@@ -50,7 +51,7 @@ const CLIMB_ORDER = ['Coll de Rates','Xorret de Cat\u00ed','Vall d\'Ebo','Port d
 const CARDS = [
   {k:'climb', q:'Looking for an iconic climb?', p:'Coll de Rates, Xorret de Cat\u00ed, Vall d\'Ebo and the passes the pros train on in winter.', types:['Famous climbs','Local climbs'], order:CLIMB_ORDER, max:11},
   {k:'route', q:'Looking for rolling terrain?', p:'10\u201315 m of climbing per km: short ups and downs through vineyards and orange groves, no long climbs.', routes:rolling},
-  {k:'route', q:'Looking for flat roads?', p:'Under 10 m of climbing per km: rice fields, the old railway path and the seafront.', routes:flat},
+  {k:'flat', q:'Looking for flat roads?', p:'Under 10 m of climbing per km: rice fields, the old railway path and the seafront.', routes:flat},
   {k:'view', q:'Looking for the best views?', p:'The Pe\u00f1\u00f3n de Ifach, Montg\u00f3, Guadalest\'s reservoir and the sea from Cumbre del Sol.', types:['Great views']},
   {k:'nature', q:'Looking for valleys and nature?', p:'Quiet valleys, almond and cherry terraces, wetlands with herons, and flamingos in Calp.', types:['Beautiful nature']},
   {k:'village', q:'Looking to stop in beautiful villages?', p:'Hilltop old towns, wine villages, castles and craft workshops along the way.', types:['Villages, wine and culture','Architecture']},
