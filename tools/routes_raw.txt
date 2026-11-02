@@ -1,0 +1,59 @@
+57185961 | Jávea Old Town to Arenal | 13.7 | 107 | Jávea
+57623070 | Dionis-Xàbia old town and back | 15.7 | 161 | Tossalet
+57186574 | Xaló Valley | 16.8 | 228 | Xaló
+57185682 | Dénia via verde | 18.5 | 84 | Dénia
+57186739 | Pedreguer-Beniarbeig-La Xara loop | 19.8 | 149 | Pedreguer
+57380442 | Syncrosfera to Montesanco - easiest | 19.9 | 322 | Pedreguer
+57185812 | Denia Las Marinas | 20.3 | 110 | Vergel
+57624090 | Marriott-Les Marines-Dénia | 22.8 | 179 | Sella
+57186311 | Pego Marshes and Rice Fields | 24.3 | 137 | Oliva Nova
+57380183 | Syncrosfera to Montesanco - easy | 28.0 | 458 | Pedreguer
+57192783 | Dionis-Moraira-Teulada loop | 28.0 | 439 | Tossalet
+57186096 | Moraira-Calpe-Moraira | 28.1 | 357 | Moraira
+57187621 | Benissa-Calp hilltop loop | 28.5 | 481 | Benissa
+57380800 | Montgó loop counterclockwise | 29.8 | 405 | Pedreguer
+57193361 | Montgó loop | 31.8 | 444 | Sella
+57187246 | Jesus Pobre-Gata-Xaló-Pedreguer | 34.5 | 484 | Pedreguer
+57697456 | Syncrosfera-Sagra-Alcalalí loop | 35.0 | 423 | Pedreguer
+57193001 | Alcalalí-Benigembla-Benissa | 35.0 | 449 | Alcalalí
+57389460 | Syncrosfera-Fustera-Calpe | 37.8 | 567 | Pedreguer
+57193152 | Syncrosfera-Benigembla loop | 38.3 | 526 | Pedreguer
+57197762 | Castell de Castells and Tárbena from Parcent | 40.4 | 806 | Parcent
+57193257 | Oliva Nova-Monte Pego-Pedreguer loop | 40.9 | 310 | Oliva Nova
+57197495 | Guadalest from Altea | 41.4 | 866 | Altea
+57380753 | Syncrosfera to Montesanco - medium 2 | 41.8 | 637 | Pedreguer
+57381460 | Syncrosfera-Monte Pego-Pego-Orba and back | 42.8 | 501 | Pedreguer
+57197981 | Oliva Nova-Forna-Sagra loop | 50.1 | 507 | Oliva Nova
+57693886 | Syncrosfera-Coll de Rates-Bistro Selene-Montesanco Medium | 53.6 | 1235 | Pedreguer
+57259395 | Oliva Nova-Dénia-Jávea-La Xara loop | 55.1 | 436 | Oliva Nova
+57198231 | Oliva Nova-Vall d'Ebo-El Miserat loop | 57.8 | 1036 | Oliva Nova
+57197070 | Coll de Rates | 58.0 | 1172 | Sella
+57197372 | Vall de Gallinera to Alpatró from Oliva Nova | 58.2 | 729 | Oliva Nova
+57197266 | Sierra de Bernia loop from La Sella | 62.4 | 996 | Sella
+57259447 | Oliva Nova-Monte Pego-Pedreguer-Jávea-Dénia loop | 63.7 | 592 | Oliva Nova
+57200784 | Benilloba-Port La Carrasqueta- Port de Benifallim | 66.4 | 1400 | Benilloba
+57225401 | Port de Benifallim from Guadalest | 67.4 | 1454 | Benimantell
+57697622 | Syncrosfera-Montgó-Puig Llorença-Fustera | 71.9 | 1271 | Pedreguer
+57381385 | Syncrosfera-Montgó-Puig Llorença-Fustera-Bistro Selene | 75.1 | 1284 | Pedreguer
+57380379 | Syncrosfera to Montesanco - harder 2 | 77.8 | 1613 | Pedreguer
+57258948 | Oliva Nova-Tavernes-Barx loop | 78.4 | 703 | Oliva Nova
+57380279 | Syncrosfera-Coll de Rates-Sierra de Bèrnia-Montesanco | 78.5 | 1426 | Pedreguer
+57225212 | Guadalest-Port de Tudons-Finestrat | 81.8 | 1828 | Benimantell
+57225318 | Xixona- Alcoy- Xorret de Catí loop | 85.8 | 1905 | Xixona
+57225552 | Guadalest, Castell de Castells, Confrides loop | 86.3 | 1840 | Benimantell
+57225664 | Vall de Gallinera and Vall d'Ebo loop | 87.0 | 1418 | Oliva Nova
+57380314 | Syncrosfera to Montesanco - harder | 92.7 | 1638 | Pedreguer
+57389376 | Vall de Gallinera and Vall d'Ebo from Syncrosfera | 93.3 | 1479 | Pedreguer
+57380416 | Syncrosfera to Montesanco - hardest | 94.6 | 1918 | Pedreguer
+57200589 | Puertos de Carrasqueta, Confrides y Aitana | 96.5 | 2355 | Benifallim
+57623397 | Dionis-Granadella-Dénia-Calp-Puig de la Llorença | 101.9 | 1661 | Tossalet
+57623294 | VIVOOD-Calp-Vall d'Ebo-Tollos | 144.7 | 2798 | Benimantell
+57214536 | Vuelta de España 2021, stage 7 | 153.3 | 3726 | Gandia
+57623211 | VIVOOD-Port de Tudons-Coll de Rates | 156.4 | 3172 | Benimantell
+57214012 | Vuelta de España 2023, stage 8 | 162.3 | 3531 | Dénia
+54015314 | La Vuelta Ciclista a España 2026 - Stage 9 | 187.7 | 5051 | Villajoyosa
+52603103 | Gran Fondo Alberto Contador 2025 | 138.6 | 2238 | Oliva Nova
+54475136 | Aitana Tour 2026 GF | 164.7 | 3081 | Callosa d'en Sarrià
+56591687 | Gran Fondo La Nucia | 132.1 | 2599 | La Nucía
+27901331 | 150km - La Gamba Extended | 150.8 | 2506 | Dénia
+26824564 | Coll de Rates (Parcent) and Port de Bèrnia loop | 119.1 | 2257 | Calp
