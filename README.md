@@ -13,8 +13,7 @@ The data is generated from the Mirava itineraries spreadsheet (tabs Bike routes,
 
 ```html
 <div id="mv-fyr"></div>
-<script src="https://cdn.jsdelivr.net/gh/mirava-travel/mirava-website-data@main/bike-routes.js"></script>
+<script src="https://mirava-travel.github.io/mirava-website-data/bike-routes.js"></script>
 ```
 
-Files are served through jsDelivr, which caches them for up to 12 hours. To show a change at once, open
-`https://purge.jsdelivr.net/gh/mirava-travel/mirava-website-data@main/bike-routes-data.json` (and the same for `bike-routes.js`).
+Files are served by GitHub Pages (Settings → Pages → Deploy from branch `main`, folder `/`). Changes are live within about 10 minutes of a push.
